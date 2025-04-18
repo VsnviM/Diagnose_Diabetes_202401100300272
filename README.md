@@ -46,6 +46,9 @@ The project generates:
 - A confusion matrix heatmap showing model performance.
 - Accuracy, Precision, and Recall metrics.
 
+![Heatmap](heatmap(OUTPUT).png)
+
+
 ---
 
 ## 📚 References
