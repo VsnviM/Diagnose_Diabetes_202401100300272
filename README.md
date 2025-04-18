@@ -1,7 +1,9 @@
-# Diagnose_Diabetes_202401100300272
+# Diagnose_Diabetes
 # 🩺 Diagnose Diabetes
 
 This project uses the **Pima Indians Diabetes Dataset** to build a machine learning classification model that predicts whether a person has diabetes based on medical attributes.
+
+---
 
 ## 📌 Problem Statement
 
