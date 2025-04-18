@@ -1,5 +1,5 @@
 # Diagnose_Diabetes_202401100300272
-# 🩺 Diagnose Diabetes using Machine Learning
+# 🩺 Diagnose Diabetes
 
 This project uses the **Pima Indians Diabetes Dataset** to build a machine learning classification model that predicts whether a person has diabetes based on medical attributes.
 
@@ -9,20 +9,11 @@ Use patient medical records to classify if an individual has diabetes. Early pre
 
 ---
 
-## 📊 Dataset
-
-- **Name:** Pima Indians Diabetes Dataset  
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes)  
-- **Features:**  
-  - Pregnancies  
-  - Glucose  
-  - BloodPressure  
-  - SkinThickness  
-  - Insulin  
-  - BMI  
-  - DiabetesPedigreeFunction  
-  - Age  
-  - Outcome (Target: 1 = Diabetic, 0 = Not Diabetic)
+## How to Run
+1. Clone this repository.
+2. Place the dataset file `2. Diagnose Diabetes.csv` in the same directory.
+3. Open the Python script or Jupyter Notebook (if applicable).
+4. Run all the cells or execute the script to train the model and evaluate performance.
 
 ---
 
@@ -41,15 +32,17 @@ Use patient medical records to classify if an individual has diabetes. Early pre
 
 ## 🧪 Evaluation Metrics (Sample)
 
-- **Accuracy:** 0.79  
-- **Precision:** 0.74  
-- **Recall:** 0.67  
+- **Accuracy:** 0.72
+- **Precision:** 0.61 
+- **Recall:** 0.62  
 
 ---
 
-## 📷 Output
+## Output
+The project generates:
 
-A confusion matrix heatmap is generated to visualize the model's performance in classification.
+- A confusion matrix heatmap showing model performance.
+- Accuracy, Precision, and Recall metrics.
 
 ---
 
